@@ -17,7 +17,7 @@ Win by getting three in a row – horizontally, vertically, or diagonally!
 Check the scoreboard and reset the game to play again.
 
 🔗 Live Demo
-
+https://navneet-pratap-byte.github.io/TIC-TAC-TOE/
 
 🛠️ Tech Stack
 HTML, CSS (Tailwind) 🎨
